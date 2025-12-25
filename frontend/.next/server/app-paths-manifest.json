@@ -1,0 +1,8 @@
+{
+  "/interview/page": "app/interview/page.js",
+  "/skill-gap/page": "app/skill-gap/page.js",
+  "/roadmap/page": "app/roadmap/page.js",
+  "/assessments/page": "app/assessments/page.js",
+  "/page": "app/page.js",
+  "/digital-twin/page": "app/digital-twin/page.js"
+}
